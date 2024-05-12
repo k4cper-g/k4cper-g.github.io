@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/volans-web/static/css/main.10884302.css",
-    "main.js": "/volans-web/static/js/main.691b31f2.js",
-    "static/media/crypto.png": "/volans-web/static/media/crypto.c63f881f95edaf31704e.png",
-    "static/media/btc.png": "/volans-web/static/media/btc.d3c43a208263e63447a7.png",
-    "static/media/ether.png": "/volans-web/static/media/ether.d4359169f9ae633b2f38.png",
-    "static/media/VolansLogoWhiteNoBgr.png": "/volans-web/static/media/VolansLogoWhiteNoBgr.c6c1d0b7ee593ac3e241.png",
-    "static/media/doge.png": "/volans-web/static/media/doge.be6a587d49c4b58c6790.png",
-    "index.html": "/volans-web/index.html",
-    "main.10884302.css.map": "/volans-web/static/css/main.10884302.css.map",
-    "main.691b31f2.js.map": "/volans-web/static/js/main.691b31f2.js.map"
+    "main.css": "/static/css/main.10884302.css",
+    "main.js": "/static/js/main.dc041945.js",
+    "static/media/crypto.png": "/static/media/crypto.c63f881f95edaf31704e.png",
+    "static/media/btc.png": "/static/media/btc.d3c43a208263e63447a7.png",
+    "static/media/ether.png": "/static/media/ether.d4359169f9ae633b2f38.png",
+    "static/media/VolansLogoWhiteNoBgr.png": "/static/media/VolansLogoWhiteNoBgr.c6c1d0b7ee593ac3e241.png",
+    "static/media/doge.png": "/static/media/doge.be6a587d49c4b58c6790.png",
+    "index.html": "/index.html",
+    "main.10884302.css.map": "/static/css/main.10884302.css.map",
+    "main.dc041945.js.map": "/static/js/main.dc041945.js.map"
   },
   "entrypoints": [
     "static/css/main.10884302.css",
-    "static/js/main.691b31f2.js"
+    "static/js/main.dc041945.js"
   ]
 }
