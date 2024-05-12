@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d44cec8.css",
+    "main.css": "/static/css/main.10884302.css",
     "main.js": "/static/js/main.dc041945.js",
     "static/media/crypto.png": "/static/media/crypto.c63f881f95edaf31704e.png",
     "static/media/btc.png": "/static/media/btc.d3c43a208263e63447a7.png",
@@ -8,11 +8,11 @@
     "static/media/VolansLogoWhiteNoBgr.png": "/static/media/VolansLogoWhiteNoBgr.c6c1d0b7ee593ac3e241.png",
     "static/media/doge.png": "/static/media/doge.be6a587d49c4b58c6790.png",
     "index.html": "/index.html",
-    "main.3d44cec8.css.map": "/static/css/main.3d44cec8.css.map",
+    "main.10884302.css.map": "/static/css/main.10884302.css.map",
     "main.dc041945.js.map": "/static/js/main.dc041945.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d44cec8.css",
+    "static/css/main.10884302.css",
     "static/js/main.dc041945.js"
   ]
 }
