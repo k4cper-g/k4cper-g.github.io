@@ -1,21 +1,14 @@
 import React from "react";
-import Navbar from "./components/navbar";
-import Hero from "./components/hero";
-import Finance from "./components/finance";
-import Newsletter from "./components/newsletter";
-import Cards from "./components/cards"
-import Footer from "./components/footer";
+import Main from "./pages/main"
+import About from "./pages/about"
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div>
-      <Navbar/>
-      <Hero/>
-      <Finance/>
-      <Newsletter/>
-      <Cards/>
-      <Footer/>
-    </div>
+      <Routes>
+          <Route path="/" element={<Main/>}/>
+          <Route path="/about" element={<About/>}/>
+      </Routes>
   );
 }
 
